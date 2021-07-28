@@ -7,7 +7,15 @@ Tom Schmitt | Sommersemester 21 | Intermedia Design
 
 # About
 Für die Hausaufgabe sollten wir mit Hilfe eines Arduino Uno Mikrocontrollers einen LED-Steifen über ein Potentiometer steuern. 
-Bei mir funktionierte die LED leider nach dem Tausch immer noch nicht. Ich kopierte den Code eines Kommilitonen und baute dessen Schaltplan exakt nach. Leider konnte ich kein Ergebnis erzielen.
+Die Geschwindigkeit des Farbwechsels wird durch das Potentiometer gesteuert. 
+
+![IMG_4365](https://user-images.githubusercontent.com/35604723/127348971-34a60cd8-b2fc-4e2e-8016-73584521abb8.png)
+
+
+
+https://user-images.githubusercontent.com/35604723/127349082-8d722d20-100b-4307-9da6-cbbd2eb3521c.MOV
+
+
 
 # Schritt 1 
 
