@@ -46,12 +46,13 @@ https://user-images.githubusercontent.com/35604723/127349292-797e4275-cc7d-4044-
 
 ## First steps: 
 
-* 1. PlattformIO in Visual Studio Code installieren
-* 2. Neues Projekt starten und Microcontroller auswählen (hier Arduino) 
-* 3. FastLED Library installieren
-* 4. Daten aus dem download ZIP in die main.cpp Datei kopieren
-* ### [Download Code](thepixelence/Phsyical_computing_hausaufgabe/archive/refs/heads/main.zip)
-* 5. Dateien auf Arduino laden 
+ ### [Download Code](thepixelence/Phsyical_computing_hausaufgabe/archive/refs/heads/main.zip)
+
+* 1 - PlattformIO in Visual Studio Code installieren
+* 2 -  Neues Projekt starten und Microcontroller auswählen (hier Arduino) 
+* 3 - FastLED Library installieren
+* 4 - Daten aus dem download ZIP in die main.cpp Datei kopieren
+* 5 - Dateien auf Arduino laden 
 
 Was zu beachten ist:
 
