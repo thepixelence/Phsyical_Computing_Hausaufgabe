@@ -33,7 +33,7 @@ Bei mir funktionierte die LED leider nach dem Tausch immer noch nicht. Ich kopie
 
 ## Schaltplan
 
-https://i.imgur.com/th8Z6qX.jpg
+[Imgur](https://i.imgur.com/th8Z6qX.jpg)
 
 ### download code 
 
