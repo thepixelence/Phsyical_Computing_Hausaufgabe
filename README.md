@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/35604723/127349292-797e4275-cc7d-4044-
 
 ## First steps: 
 
- ### [Download Code](thepixelence/Phsyical_computing_hausaufgabe/archive/refs/heads/main.zip)
+ [Download Code](https://github.com/thepixelence/Phsyical_computing_hausaufgabe/archive/refs/heads/main.zip)
 
 * 1 - PlattformIO in Visual Studio Code installieren
 * 2 -  Neues Projekt starten und Microcontroller auswählen (hier Arduino) 
