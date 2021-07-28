@@ -1,4 +1,4 @@
-# physical_computing
+# Physical Computing Hausaufgabe
 Hausaufgabe im Kurs physical Computing SoSE 2021
 
 Repository zur Hausaufgabe im Kurs Physical Computing.
