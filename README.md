@@ -3,7 +3,7 @@ Hausaufgabe im Kurs physical Computing SoSE 2021
 
 Repository zur Hausaufgabe im Kurs Physical Computing.
 
-Tom Schmitt | Sommersemester 21 | Intermedia Design
+#### Tom Schmitt | Sommersemester 21 | Intermedia Design
 
 # About
 Für die Hausaufgabe sollten wir mit Hilfe eines Arduino Uno Mikrocontrollers einen LED-Steifen über ein Potentiometer steuern. 
@@ -11,9 +11,8 @@ Die Geschwindigkeit des Farbwechsels wird durch das Potentiometer gesteuert.
 
 ![IMG_4365](https://user-images.githubusercontent.com/35604723/127348971-34a60cd8-b2fc-4e2e-8016-73584521abb8.png)
 
+https://user-images.githubusercontent.com/35604723/127349292-797e4275-cc7d-4044-897d-b8cd97fa7ab4.mp4
 
-
-https://user-images.githubusercontent.com/35604723/127349082-8d722d20-100b-4307-9da6-cbbd2eb3521c.MOV
 
 
 
@@ -60,4 +59,10 @@ Was zu beachten ist:
 * Die anderen Dateien sollten wenn möglich unverändert bleiben.
 
 
+First steps: 
 
+* 1. PlattformIO in Visual Studio Code installieren
+* 2. Neues Projekt starten und Microcontroller auswählen (hier Arduino) 
+* 3. FastLED Library installieren
+* 4. Daten aus dem download ZIP in die main.cpp Datei kopieren
+* 5. Dateien auf Arduino laden 
