@@ -1,5 +1,5 @@
 # Physical Computing Hausaufgabe
-Hausaufgabe im Kurs physical Computing SoSE 2021
+Hausaufgabe im Kurs Physical Computing SoSE 2021
 
 Repository zur Hausaufgabe im Kurs Physical Computing.
 
